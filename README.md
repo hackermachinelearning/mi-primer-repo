@@ -1,7 +1,7 @@
 # fraccionmixta.c++
 
 
-
+//omegaup
 
 #include <iostream>
 
